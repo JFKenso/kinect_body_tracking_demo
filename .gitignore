@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+cublas64_100.dll
+cudart64_100.dll
+cudnn64_7.dll
+vcomp140.dll
